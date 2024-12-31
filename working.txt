@@ -1,0 +1,13 @@
+Four-Multiplier Configuration
+ Calculations: 
+ m1 = {input1} *{input3} 
+ m2 = {input2} *{input4} 
+ m3 = {input1} *{input4}
+ m4 = {input2} *{input3} 
+
+Three-Multiplier Configuration
+ Calculations:
+m1 = {input1}*{input3}
+m2 = {input2} *{input4}
+m3 = {input1} + {input2}*{input3} + 
+{input4} 
